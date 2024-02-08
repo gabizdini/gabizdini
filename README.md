@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/gabrielidiniz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-812df7?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
   
-<picture>
+ <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabizdini/gabizdini/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabizdini/gabizdini/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gabizdini/gabizdini/output/github-contribution-grid-snake.svg">
