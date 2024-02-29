@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=812df7&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=812df7&size=32&center=true&vCenter=true&width=1000&lines=Hello+World!,+My+name+is+Gabrieli+Diniz;+I'm+18+years+old;Be+welcome!+:3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=812df7&size=32&center=true&vCenter=true&width=1000&lines=Hello+World!+My+name+is+Gabrieli+Diniz;+I'm+18+years+old;Be+welcome!+:3)](https://git.io/typing-svg)
 
 ## Sobre mim:
 * Graduating in Information Systems
