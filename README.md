@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=812df7&size=32&center=true&vCenter=true&width=1000&lines=Hello+World!+My+name+is+Gabrieli+Diniz;+I'm+19+years+old;Be+welcome!+&hearts;)](https://git.io/typing-svg)
 
-## Sobre mim:
+## About me:
 * Graduating in Information Systems
 
 <div align="center">  
