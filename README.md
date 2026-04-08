@@ -4,7 +4,7 @@
 
 ## About me:
 * Graduating in Information Systems
-## Contatos:
+* 
 <div align="center"> 
 <a href="https://www.instagram.com/gabrielidiniz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-812df7?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:gabrielidinizds@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-812df7?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
