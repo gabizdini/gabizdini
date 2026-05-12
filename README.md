@@ -3,9 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=812df7&size=32&center=true&vCenter=true&width=1000&lines=Hello+World!+My+name+is+Gabrieli+Diniz;Be+welcome!+&hearts;)](https://git.io/typing-svg)
 
 ## About me:
-
-<img align="right" height="190" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmo1Z210MXRzYzRtejU3bXU4dzFtZGlrODFtczJrNGxnZTF6Nnd1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" />
-
+<img align="right" height="300" alt="ernesto" src="assets/ernesto.jpeg"/>
 - Graduating in Information Systems
 - TI
 
@@ -37,4 +35,8 @@
 <img src="https://img.shields.io/badge/-LinkedIn-812df7?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 </div>
+<br><br><br><br>
+<p align="right">
+  <sub><b>Ernesto💜</b></sub>
+</p>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=812df7&height=120&section=footer"/>
