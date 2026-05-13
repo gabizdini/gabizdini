@@ -4,7 +4,7 @@
 
 ## About me:
 <img align="right" height="300" alt="ernesto" src="assets/ernesto.jpeg"/>
-- Graduating in Information Systems
+- Graduating in Information Systems <br>
 - TI
 
 ### Core Technologies
