@@ -39,4 +39,12 @@
 <p align="right">
   <sub><b>Ernesto💜</b></sub>
 </p>
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=gabizdini&show_icons=true&hide_border=true&bg_color=0d1117&title_color=812df7&icon_color=812df7&text_color=c9d1d9">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabizdini&layout=compact&hide_border=true&bg_color=0d1117&title_color=812df7&text_color=c9d1d9">
+</div>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=812df7&height=120&section=footer"/>
+
+
