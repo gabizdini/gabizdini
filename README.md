@@ -45,7 +45,13 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabizdini&layout=compact&hide_border=true&bg_color=0d1117&title_color=812df7&text_color=c9d1d9">
 </div>
 
-![snake](https://raw.githubusercontent.com/gabizdini/gabizdini/output/snake.svg)
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabizdini/gabizdini/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabizdini/gabizdini/output/snake.svg">
+    <img alt="Cobrinha comendo contribuições" src="https://raw.githubusercontent.com/gabizdini/gabizdini/output/snake.svg">
+  </picture>
+</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=812df7&height=120&section=footer"/>
 
